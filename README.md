@@ -6,7 +6,7 @@ A collection of ML/AI projects focused on learning by building. See [ideas_list.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [chat-with-notes](https://github.com/acacereswright/chat-with-notes) | Local RAG-based study tool for chatting with your notes | Planned |
+| [chat-with-notes](https://github.com/acacereswright/chat-with-notes) | Local RAG-based study tool for chatting with your notes | In Progress |
 
 ## Ideas Backlog
 
