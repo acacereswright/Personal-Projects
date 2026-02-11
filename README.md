@@ -4,17 +4,17 @@ A running list of ML/AI projects focused on learning by building. A secondary go
 
 ## Projects
 
-| # | Project | Category | Key Skills | Complexity | Status |
-|---|---------|----------|------------|------------|--------|
-| 1 | [Chat With Your Notes](https://github.com/acacereswright/chat-with-notes) | NLP / RAG | Embeddings, vector search, RAG architecture, document parsing | High | In Progress |
-| 2 | Book Recommendation System | RecSys | Web scraping, recommendation algorithms, API integration | Medium | — |
-| 3 | Custom Image Classifier | Computer Vision | Data collection, labeling, CNN training, model deployment | Medium | — |
-| 4 | Sentiment Analysis Dashboard | NLP / Data Viz | API scraping, sentiment models, fine-tuning, visualization | Medium | — |
-| 5 | Personal AI Coding Assistant | Code / Fine-tuning | Fine-tuning, code models, training data curation | High | — |
-| 6 | Music/Podcast Recommendation Engine | RecSys | Collaborative filtering, content-based filtering, Spotify API | Medium | — |
-| 7 | RL Agent for Game Playing | Reinforcement Learning | Reward shaping, policy gradients, Q-learning | High | — |
-| 8 | ML-Powered Finance Categorizer | Tabular ML | Text classification, anomaly detection, dashboarding | Medium | — |
-| 9 | Text-to-Image Prompt Optimizer | NLP / Generative AI | Fine-tuning, dataset creation, prompt engineering | Medium | — |
+| # | Project | Category | Key Skills | Status |
+|---|---------|----------|------------|--------|
+| 1 | [Chat With Your Notes](https://github.com/acacereswright/chat-with-notes) | NLP / RAG | Embeddings, vector search, RAG architecture, document parsing | In Progress |
+| 2 | Book Recommendation System | RecSys | Web scraping, recommendation algorithms, API integration | Planned |
+| 3 | Custom Image Classifier | Computer Vision | Data collection, labeling, CNN training, model deployment | Planned |
+| 4 | Sentiment Analysis Dashboard | NLP / Data Viz | API scraping, sentiment models, fine-tuning, visualization | Planned |
+| 5 | Personal AI Coding Assistant | Code / Fine-tuning | Fine-tuning, code models, training data curation | Planned |
+| 6 | Music/Podcast Recommendation Engine | RecSys | Collaborative filtering, content-based filtering, Spotify API | Planned |
+| 7 | RL Agent for Game Playing | Reinforcement Learning | Reward shaping, policy gradients, Q-learning | Planned |
+| 8 | ML-Powered Finance Categorizer | Tabular ML | Text classification, anomaly detection, dashboarding | Planned |
+| 9 | Text-to-Image Prompt Optimizer | NLP / Generative AI | Fine-tuning, dataset creation, prompt engineering | Planned |
 
 ## Detailed Descriptions
 
